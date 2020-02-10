@@ -5,6 +5,7 @@ body {
   border-width: 9px;
   border-radius: 15px;
   float: right;
+   
 }
 p {
   color: whitesmoke;
@@ -38,5 +39,7 @@ img{
   border-color: darkblue;
   border-width: 9px;
   border-style: dotted;
+  border-radius: 13px;
+}
   border-radius: 13px;
 }
