@@ -21,13 +21,17 @@ h1 {
   margin-left: 349px;
 }
 .desmos{
-  margin-left: 35px;
+  margin-left: 735px;
+}
+.bro{
+  margin-left: 660px;
 }
 h2{
   font-family: sans-serif;
 }
 .ugh{
   text-align: left;
+  margin-right: 600px;
 }
 .lol{
   float: left;
@@ -39,7 +43,5 @@ img{
   border-color: darkblue;
   border-width: 9px;
   border-style: dotted;
-  border-radius: 13px;
-}
   border-radius: 13px;
 }
